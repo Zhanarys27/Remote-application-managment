@@ -1,0 +1,4 @@
+﻿  main.c
+c:\android studio\newproject\server\server\main.c(330): warning C4101: msg: неиспользованная локальная переменная
+c:\android studio\newproject\server\server\main.c(331): warning C4101: bRet: неиспользованная локальная переменная
+  Server.vcxproj -> C:\Android Studio\NewProject\Server\Debug\Server.exe

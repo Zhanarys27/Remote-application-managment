@@ -21,3 +21,4 @@
 
 Рефакторинг пос последнего спринта:
 * Получилось так как задумали с самого начало.
+![](https://github.com/Dosov/Remote-application-managment/blob/master/diagram.jpg)

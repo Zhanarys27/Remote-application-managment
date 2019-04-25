@@ -19,6 +19,6 @@
 ![](https://github.com/Dosov/Remote-application-managment/blob/master/document/d0N5igvBM3A.jpg)
 Диаграмма классов после последнего спринта:
 
-Рефакторинг пос последнего спринта:
-* Получилось так как задумали с самого начало.
+Рефакторинг после последнего спринта:
+* Получилось так как задумали с самого начала.
 ![](https://github.com/Dosov/Remote-application-managment/blob/master/diagram.jpg)
